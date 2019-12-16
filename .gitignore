@@ -1,0 +1,9 @@
+Xtrain
+Ytrain.npy
+dataset/__pycache__/
+jupyter\ notebook/.ipynb_checkpoints/
+jupyter\ notebook/confusion\ matrix/
+jupyter\ notebook/GAP/
+net/__pycache__/
+utils/__pycache__/
+

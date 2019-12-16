@@ -1,0 +1,12 @@
+model6: add noise and train with XXX...
+model8 fine tuning model3
+model9 model3 change to f1 loss
+model10 finetuning model3 with f1-loss
+model11 finetuning model12 with f1-loss
+model12 model9 training 200 epoch
+model13: fine-tuning model 8 by f1-loss & d_rate=0 & lr=1e-4
+model14: model3 change to con_loss 
+model15: model3 change to pre_loss 
+model16: model3 change to re_loss 
+model17: model3 change to re_loss (log_soft_max)
+model18 = model3
