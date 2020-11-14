@@ -6,4 +6,4 @@ jupyter\ notebook/confusion\ matrix/
 jupyter\ notebook/GAP/
 net/__pycache__/
 utils/__pycache__/
-
+./report/*
